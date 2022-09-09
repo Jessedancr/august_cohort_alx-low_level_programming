@@ -2,7 +2,8 @@
 /**
 * main - prints the string in the put fucnction
 * Description: Using the main function
-* return: 0
+* This program prints with proper grammar, but the outcome is a piece of art
+* Return: 0
 */
 int main(void)
 {
