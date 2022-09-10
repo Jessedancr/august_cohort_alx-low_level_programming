@@ -1,10 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - print if the number is positive, zero or negarive
  * Description: using the main funcyion
  * This program prints number is positive negative or zero
- * Return: o
+ * Return: 0
  */
 int main(void){
  int n;
