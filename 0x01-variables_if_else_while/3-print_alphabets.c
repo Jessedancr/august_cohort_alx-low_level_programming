@@ -1,6 +1,8 @@
 #include <stdio.h>
-/** Main - printss letters in lower and upper case
- * Description -  using the mai function ...
+/**
+ * main - print if the number is positive zero or negative
+ * Description: using the main function
+ * this program prints "blah blah blah"
  * Return: 0
  */
 int main(void)
